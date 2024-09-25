@@ -16,7 +16,7 @@ const page = async ({ params }: BlogParams) => {
   <div>
    <h1>
     <span className="block  text-center text-primary font-semibold text-base uppercase tracking-wide">
-     Hammad Shaikh - Blog
+     ConfigLabs - Blog
     </span>
     <span className="mt-2 block text-3xl text-center leading-8 font-bold tracking-tight sm:text-4xl">
      {blog?.title}
