@@ -1,5 +1,4 @@
 import { client } from "@/lib/sanity";
-import { simpleBlogCard } from "./interface";
 
 // Function to fetch all blog data
 export async function getBlogData() {
